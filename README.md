@@ -117,7 +117,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Order volume
 * Integrated external dataset for real-world simulation
 
-📁 Notebook: [07_Weather_Impact_Analysis.ipynb](notebooks\07_Weather_Impact_Analysis.ipynb)
+📁 Notebook: [07_Weather_Impact_Analysis.ipynb](notebooks\07_Weather_Data_Integration_for_BI.ipynb)
 
 9️⃣ Dashboard Development (Power BI)
 
