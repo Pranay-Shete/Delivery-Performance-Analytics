@@ -73,7 +73,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Studied delivery time patterns across different conditions
 * Identified peak hours and demand fluctuations
 
-📁 Notebook: [02_demand_analysis.ipynb](notebooks\02_demand_analysis.ipynb)
+📁 Notebook: [02_demand_analysis.ipynb](notebooks/02_demand_analysis.ipynb)
 
 4️⃣ Operational Performance Analysis
 
@@ -81,7 +81,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Identified delivery bottlenecks
 * Calculated delay percentages
 
-📁 Notebook: [03_operational_analysis.ipynb](notebooks\03_operational_analysis.ipynb)
+📁 Notebook: [03_operational_analysis.ipynb](notebooks/03_operational_analysis.ipynb)
 
 5️⃣ Customer Behavior Analysis
 
@@ -91,7 +91,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
   - Customer ratings
   - Performed Pareto Analysis (Top 20% customers)
 
-📁 Notebook: [04_customer_analysis.ipynb](notebooks\04_customer_analysis.ipynb)
+📁 Notebook: [04_customer_analysis.ipynb](notebooks/04_customer_analysis.ipynb)
 
 6️⃣ SQL Business Analysis
 
@@ -99,7 +99,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Customer frequency analysis
 * Delivery KPIs using SQL queries
 
-📁 Notebook: [05_sql_business_analysis.ipynb](notebooks\05_sql_bussiness_analysis.ipynb)
+📁 Notebook: [05_sql_business_analysis.ipynb](notebooks/05_sql_bussiness_analysis.ipynb)
 
 7️⃣ Machine Learning (Basic AI Layer)
 
@@ -108,7 +108,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Key influencing factors
 * Feature selection from operational + weather data
 
-📁 Notebook: [06_ML_analysis.ipynb](notebooks\06_ML_analysis.ipynb)
+📁 Notebook: [06_ML_analysis.ipynb](notebooks/06_ML_analysis.ipynb)
 
 8️⃣ Weather Impact Analysis 🌦️
 
@@ -117,7 +117,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Order volume
 * Integrated external dataset for real-world simulation
 
-📁 Notebook: [07_Weather_Impact_Analysis.ipynb](notebooks\07_Weather_Data_Integration_for_BI.ipynb)
+📁 Notebook: [07_Weather_Impact_Analysis.ipynb](notebooks/07_Weather_Data_Integration_for_BI.ipynb)
 
 9️⃣ Dashboard Development (Power BI)
 
