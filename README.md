@@ -128,8 +128,8 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 
 📁 Folder :[Dashboard/](dashboard\dashboard.pbix)
 
-![Dashboard](dashboard\dashboard_main.png)
-![Dashboard](dashboard\weather_impact_analysis.png)
+![Main Dashboard](dashboard/dashboard_main.png)
+![Weather Dashboard](dashboard/weather_impact_analysis.png)
 
 ## 📊 Key Insights
 
