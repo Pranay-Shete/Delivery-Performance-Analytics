@@ -126,7 +126,7 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 * Slicers (time, customer segment)
 * Visual insights for decision-making
 
-📁 Folder :[Dashboard/](Dashboard\Dashboard.pbix)
+📁 Folder :[Dashboard/](dashboard\dashboard.pbix)
 
 ![Dashboard](dashboard\dashboard_main.png)
 ![Dashboard](dashboard\weather_impact_analysis.png)
