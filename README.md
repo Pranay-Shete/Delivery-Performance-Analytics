@@ -113,7 +113,7 @@ Analyzed effect of weather on delivery time and order volume.
 **9️⃣ Dashboard (Power BI)**  
 Developed interactive dashboard with KPIs, filters, and insights.
 
-📁 Folder :[Dashboard/](dashboard\dashboard.pbix)
+📁 Folder :[Dashboard](dashboard/dashboard.pbix)
 
 
 ## 📈 Dashboard Preview
