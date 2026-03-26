@@ -1,50 +1,56 @@
-# 🐦‍🔥 Delivery Performance Analytics
+<h1 align="center">🐦‍🔥 Delivery Performance Analytics</h1>
 
-## 📌 Project Overview
-This project analyzes food delivery operations using SQL, Python, Excel, and Power BI to uncover insights related to delivery performance, customer behavior, and operational efficiency.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=1200&center=true&vCenter=true&width=600&lines=10K%2B+Orders+Analyzed;73%25+Delay+Pattern+Detection;Real-World+Business+Insights;Python+%7C+SQL+%7C+Power+BI" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Real%20World-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-SQL%20%7C%20PowerBI-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Basic%20Model-green?style=for-the-badge"/>
+</p>
 
-The goal is to simulate a real-world data analytics workflow and provide actionable insights that can improve business decisions.
+---
+
+## 📌 Overview
+
+🧠 *“In data, every delay has a reason… and every pattern has a story.”*
+
+This project analyzes food delivery operations using **Python, SQL, Excel, and Power BI** to uncover:
+
+- ⏱️ Delivery inefficiencies  
+- 👤 Customer behavior  
+- 🚴 Rider performance  
+- 🌧️ Weather impact  
+
+---
 
 ## 🎯 Objectives
 
-* Analyze delivery time efficiency and delays
+- 📉 Analyze delivery delays & peak-hour inefficiencies  
+- 💰 Identify top revenue-driving customers  
+- ⏱️ Evaluate rider waiting time impact  
+- 📊 Build interactive dashboards  
+- 🤖 Apply ML for delay pattern detection  
 
-* Identify high-value customers (Pareto Analysis)
+---
 
-* Evaluate rider performance and waiting time
+## 🧰 Tech Stack
 
-* Build interactive dashboards for business insights
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="38"/>
+</p>
 
-* Apply data analytics + AI concepts in one project
-
-## 🧠 Skills & Tools Used
-
-🔹 Programming & Analysis
-
-    Python (Pandas, NumPy)
-
-    SQL (Joins, Aggregations, KPI queries)
-
-🔹 Data Visualization
-
-    Power BI (Interactive Dashboard)
-
-    Excel (Formulas, KPI calculations)
-
-🔹 Concepts Applied
-
-    Data Cleaning & Preprocessing
-
-    KPI Metrics (Delivery Time, Revenue, Ratings)
-
-    Pareto Analysis (Top 20% Customers)
-
-    Business Insight Generation
+---
 
 ## 📂 Dataset Description
 * orders → order details, revenue, delivery time, rider performance & waiting time
 * customers → customer behavior & segmentation
 * weather → external factors affecting delivery
+
+--- 
 
 ## 📁 Project Structure
 
@@ -54,111 +60,67 @@ The goal is to simulate a real-world data analytics workflow and provide actiona
 ├── notebooks/                             
 └── README.md
 
-## 🔄 Project Workflow
-1️⃣ Data Collection
-
-* Multiple datasets combined from different sources
-* Includes orders, customers, delivery performance, and weather data
-
-2️⃣ Data Cleaning & Preprocessing
-
-* Handled missing and inconsistent values
-* Converted time-related columns into proper formats
-* Standardized column names and data types
-* Removed duplicates and irrelevant records
-
-3️⃣ Exploratory Data Analysis (EDA)
-
-* Analyzed order distribution and revenue trends
-* Studied delivery time patterns across different conditions
-* Identified peak hours and demand fluctuations
-
-📁 Notebook: [02_demand_analysis.ipynb](notebooks/02_demand_analysis.ipynb)
-
-4️⃣ Operational Performance Analysis
-
-* Compared food preparation time vs rider waiting time
-* Identified delivery bottlenecks
-* Calculated delay percentages
-
-📁 Notebook: [03_operational_analysis.ipynb](notebooks/03_operational_analysis.ipynb)
-
-5️⃣ Customer Behavior Analysis
-
-* Calculated:
-  - Total orders per customer
-  - Average order value
-  - Customer ratings
-  - Performed Pareto Analysis (Top 20% customers)
-
-📁 Notebook: [04_customer_analysis.ipynb](notebooks/04_customer_analysis.ipynb)
-
-6️⃣ SQL Business Analysis
-
-* Revenue aggregation
-* Customer frequency analysis
-* Delivery KPIs using SQL queries
-
-📁 Notebook: [05_sql_business_analysis.ipynb](notebooks/05_sql_bussiness_analysis.ipynb)
-
-7️⃣ Machine Learning (Basic AI Layer)
-
-* Built a simple model to analyze:
-* Delivery delay patterns
-* Key influencing factors
-* Feature selection from operational + weather data
-
-📁 Notebook: [06_ML_analysis.ipynb](notebooks/06_ML_analysis.ipynb)
-
-8️⃣ Weather Impact Analysis 🌦️
-
-* Studied how weather affects:
-* Delivery time
-* Order volume
-* Integrated external dataset for real-world simulation
-
-📁 Notebook: [07_Weather_Impact_Analysis.ipynb](notebooks/07_Weather_Data_Integration_for_BI.ipynb)
-
-9️⃣ Dashboard Development (Power BI)
-
-* Created interactive dashboard with:
-* KPIs (Revenue, Orders, Delay %)
-* Slicers (time, customer segment)
-* Visual insights for decision-making
-
-📁 Folder :[Dashboard/](dashboard\dashboard.pbix)
-
-![Main Dashboard](dashboard/dashboard_main.png)
-![Weather Dashboard](dashboard/weather_impact_analysis.png)
+---
 
 ## 📊 Key Insights
 
-* 📉 High delivery delays during peak hours
-* 💰 Top 20% customers contribute majority revenue
-* ⏱️ Rider waiting time significantly impacts delivery speed
-* ⭐ Better-rated orders correlate with faster delivery
-* 🌡️ Delivery delay increases with tempreature
-* 🌧️ Rainy conditions significantly increase delivery time and decrease revenue 
-* 📉 Order volume drops during extreme weather
+> 💬 *“When you control time… you control the business.”*
 
-## 📌 Dashboard Features
-* Interactive slicers (city, time, customer segment)
-* KPI cards (Revenue, Orders, Delay %)
-* Trend analysis charts
-* Customer segmentation visualization
+- 📉 High delivery delays during peak hours
+- 💰 Top 20% customers contribute majority revenue
+- ⏱️ Rider waiting time significantly impacts delivery speed
+- ⭐ Better-rated orders correlate with faster delivery
+- 🌡️ Delivery delay increases with tempreature 
+- 🌧️ Rain → delays ↑ revenue ↓
+- 📉 Order volume drops during extreme weather
 
-## 💡 About This Project
 
-This project demonstrates:
+---
 
-* End-to-end data analytics workflow
-* Business-focused problem solving
-* Multi-tool expertise (Python + SQL + BI)
-* Ability to generate actionable insights
+## ⚙️ Project Workflow
 
-### ⭐ Final Note
+**1️⃣ Data Collection**  
+Combined multiple datasets (orders, customers, weather) to simulate real-world delivery operations.
 
-This is not just a visualization project — it reflects how data can be used to drive real business decisions. 
+**2️⃣ Data Cleaning & Preprocessing**  
+Handled missing values, standardized formats, and removed inconsistencies.                                                         
+📁 [Data Preparation](notebooks/01_data_preparation.ipynb)
+
+**3️⃣ Exploratory Data Analysis (EDA)**  
+Identified demand patterns, peak hours, and revenue trends.  
+📁 [Demand Analysis](notebooks/02_demand_analysis.ipynb)
+
+**4️⃣ Operational Analysis**  
+Analyzed prep time vs waiting time and calculated delay percentages.  
+📁 [Operational Analysis](notebooks/03_operational_analysis.ipynb)
+
+**5️⃣ Customer Analysis**  
+Performed segmentation & Pareto analysis (Top 20% customers).  
+📁 [Customer Analysis](notebooks/04_customer_analysis.ipynb)
+
+**6️⃣ SQL Insights**  
+Extracted KPIs, revenue trends, and customer frequency using SQL.  
+📁 [SQL Analysis](notebooks/05_sql_bussiness_analysis.ipynb)
+
+**7️⃣ Machine Learning**  
+Built a model to detect delay patterns and key influencing factors.  
+📁 [ML Analysis](notebooks/06_ML_analysis.ipynb)
+
+**8️⃣ Weather Impact**  
+Analyzed effect of weather on delivery time and order volume.  
+📁 [Weather Analysis](notebooks/07_Weather_Data_Integration_for_BI.ipynb)
+
+**9️⃣ Dashboard (Power BI)**  
+Developed interactive dashboard with KPIs, filters, and insights.
+
+📁 Folder :[Dashboard/](dashboard\dashboard.pbix)
+
+
+## 📈 Dashboard Preview
+
+![Dashboard](dashboard/dashboard_main.png)
+
+![Dashboard](dashboard/weather_impact_analysis.png)
 
 ### 👨‍💻 Author
 Pranay Shete
